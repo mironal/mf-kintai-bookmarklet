@@ -58,7 +58,7 @@ javascript:(function func() {
 
     const remainingRoudouMin = sowakuMin - (souroudouMin + kyukaMin)
 
-    const message = `あと ${minToReadable(remainingRoudouMin)} の労働が必要です.`
+    const message = `あと ${minToReadable(remainingRoudouMin)} 労働可能です.`
 
     /*
     TODO:
